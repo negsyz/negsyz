@@ -1,12 +1,12 @@
 # Hello, I'm Çağan Özdemir! 👋 / Merhaba, Ben Çağan Özdemir! 👋
 
 ## 👨‍💻 About Me / Hakkımda
-I'm a passionate software developer with a strong background in **web development**, **software consultancy**, and **social media strategy**. As the founder of [Method Reklam ve Web Ajansı](https://www.method.com), I work with clients to develop cutting-edge web solutions and digital strategies.
+I'm a passionate software developer with a strong background in **web development**, **software consultancy**, and **social media strategy**. As a developer at [Method Reklam ve Web Ajansı](https://www.method.com), I collaborate with clients to develop cutting-edge web solutions and digital strategies.
 
-Ben, **web geliştirme**, **yazılım danışmanlığı** ve **sosyal medya stratejisi** konularında güçlü bir geçmişe sahip, tutkulu bir yazılım geliştiricisiyim. [Method Reklam ve Web Ajansı](https://www.method.com)'nın kurucusu olarak, müşterilerimle birlikte en son teknolojilere dayalı web çözümleri ve dijital stratejiler geliştiriyorum.
+Ben, **web geliştirme**, **yazılım danışmanlığı** ve **sosyal medya stratejisi** konularında güçlü bir geçmişe sahip, tutkulu bir yazılım geliştiricisiyim. [Method Reklam ve Web Ajansı](https://www.method.com)'nda yazılım geliştiricisi olarak müşterilerle iş birliği yaparak en son teknolojilere dayalı web çözümleri ve dijital stratejiler geliştiriyorum.
 
 - 🌍 **Based in / Konum**: Zonguldak, Türkiye
-- 💼 **Founder & Developer at / Kurucu & Geliştirici**: [Method Reklam ve Web Ajansı](https://www.method.com)
+- 💼 **Developer at / Geliştirici**: [Method Reklam ve Web Ajansı](https://www.method.com)
 - 🌐 **Personal website / Kişisel web sitesi**: [caganozdemir.com](https://caganozdemir.com)
 - 🔭 **Currently working on / Üzerinde çalıştığım proje**: [Sirac Savunma Sanayi'nin Web Sitesi](https://www.siracsavunma.com)
 - 📫 **How to reach me / Bana ulaşın**: [LinkedIn](https://www.linkedin.com/in/caganozdemir), [Twitter](https://twitter.com/caganozdemir)
@@ -52,7 +52,7 @@ Ben, **web geliştirme**, **yazılım danışmanlığı** ve **sosyal medya stra
 - **Tech Stack / Teknoloji Yığını**: HTML, CSS, JavaScript, Netlify
 
 ## 🏆 Achievements / Başarılar
-- **Method Reklam ve Web Ajansı**'nı kurarak başarılı bir dijital ajans yarattım.
+- **Method Reklam ve Web Ajansı**'nda çalışarak dijital stratejilere katkıda bulunuyorum.
 - Girişimler ve kurumsal müşteriler için çeşitli web çözümleri geliştirdim.
 - Açık kaynak projelere katkıda bulundum ve küresel ekiplerle iş birliği yaptım.
 
