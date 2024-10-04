@@ -36,20 +36,20 @@ Ben, **web geliştirme**, **yazılım danışmanlığı** ve **sosyal medya stra
 
 ## 🔧 Projects / Projeler
 
-### 1. Sirac Savunma Sanayi Website / Sirac Savunma Sanayi Web Sitesi
+### 1. Sıraç Savunma Sanayi Website / Sıraç Savunma Sanayi Web Sitesi
 - **Role / Rol**: Full-stack Developer
 - **Description / Açıklama**: Güvenlik standartlarına odaklanarak bir savunma şirketi için özel tasarlanmış bir web sitesi.
-- **Tech Stack / Teknoloji Yığını**: Laravel, Vue.js, MySQL
+- **Tech Stack / Teknoloji Yığını**: PHP, MySQL
 
 ### 2. Revios Task Manager
 - **Role / Rol**: Lead Developer
 - **Description / Açıklama**: Uzaktan çalışan ekipler için tasarlanmış, iş birliğini ve iş akışı yönetimini kolaylaştıran bir görev yönetim uygulaması.
-- **Tech Stack / Teknoloji Yığını**: React, Node.js, PostgreSQL
+- **Tech Stack / Teknoloji Yığını**: JavaScript, Laravel, MySQL, REST API
 
 ### 3. Personal Portfolio - caganozdemir.com / Kişisel Portföy
 - **Role / Rol**: Tasarımcı & Geliştirici
 - **Description / Açıklama**: Kişisel projelerimi, becerilerimi ve danışmanlık hizmetlerimi sergilediğim web sitesi.
-- **Tech Stack / Teknoloji Yığını**: HTML, CSS, JavaScript, Netlify
+- **Tech Stack / Teknoloji Yığını**: HTML, CSS, JavaScript, 
 
 ## 🏆 Achievements / Başarılar
 - **Method Reklam ve Web Ajansı**'nda çalışarak dijital stratejilere katkıda bulunuyorum.
@@ -61,9 +61,9 @@ Ben, **web geliştirme**, **yazılım danışmanlığı** ve **sosyal medya stra
 - **Blockchain** ve **Web3** konularında kendimi geliştiriyorum.
 
 ## 📈 GitHub Stats / GitHub İstatistiklerim
-![Çağan's GitHub stats](https://github-readme-stats.vercel.app/api?username=caganozdemir&show_icons=true&theme=radical)
+![Çağan's GitHub stats](https://github-readme-stats.vercel.app/api?username=negsyz&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect / İletişime Geçelim!
 - [LinkedIn](https://www.linkedin.com/in/caganozdemir)
-- [Twitter](https://twitter.com/caganozdemir)
-- [Website](https://caganozdemir.com)
+- [Twitter](https://twitter.com/negsyz)
+- [Website](https://caganxozdemir.com.tr)
