@@ -7,9 +7,9 @@ Ben, **web geliştirme**, **yazılım danışmanlığı** ve **sosyal medya stra
 
 - 🌍 **Based in / Konum**: Zonguldak, Türkiye
 - 💼 **Developer at / Geliştirici**: [Method Reklam ve Web Ajansı](https://www.method.com)
-- 🌐 **Personal website / Kişisel web sitesi**: [caganozdemir.com](https://caganxozdemir.com)
+- 🌐 **Personal website / Kişisel web sitesi**: [caganxozdemir.com](https://caganxozdemir.com)
 - 🔭 **Currently working on / Üzerinde çalıştığım proje**: [Sıraç Savunma Sanayi'nin Web Sitesi]
-- 📫 **How to reach me / Bana ulaşın**: [LinkedIn](https://www.linkedin.com/in/caganozdemir), [Twitter](https://twitter.com/caganozdemir)
+- 📫 **How to reach me / Bana ulaşın**: [LinkedIn](https://www.linkedin.com/in/caganozdemir), [Twitter](https://twitter.com/negsyz)
 
 ## 🚀 Tech Stack / Teknoloji Yığınları
 
